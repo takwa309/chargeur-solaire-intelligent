@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1add0172-7f7c-45aa-a7fc-b568bd1b6e52)# chargeur-solaire-intelligent
+
 # Chargeur Solaire Intelligent avec STM32 & FreeRTOS
 
 # Projet de fin d'année – Systèmes Embarqués
