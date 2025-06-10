@@ -5,10 +5,6 @@
 
 Ce projet consiste à concevoir un chargeur solaire intelligent basé sur un microcontrôleur **STM32F446RE** avec **FreeRTOS**. Il permet de charger une batterie Li-ion en optimisant l'énergie du panneau solaire.
 
-![C](https://img.shields.io/badge/Langage-C-00599C?logo=c&logoColor=white)
-![Embedded C++](https://img.shields.io/badge/Embedded-C++-00599C?logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/Plateforme-STM32F446RE-03234B?logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-00979D?logo=freertos&logoColor=white)
 
 
 ## 🧠 Objectifs
