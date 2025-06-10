@@ -11,11 +11,6 @@ Ce projet consiste à concevoir un chargeur solaire intelligent basé sur un mic
 **Le code source complet** (projet STM32CubeIDE) est disponible dans le fichier :  
 `[PFA-20250609T185842Z-1-001.zip]`  
 
-## 🗂️ Organisation du dépôt
-
-- `/Core`, `/Drivers`, `/Middlewares` : Arborescence STM32CubeIDE
-- `/Src`, `/Inc` : Code source principal et headers
-
 ---
 ## 🛠️ Stack Technique
 
@@ -63,7 +58,7 @@ Ce projet consiste à concevoir un chargeur solaire intelligent basé sur un mic
 
 ## 📄 Auteurs
 
-- 👩‍💻 Jazi Takwa
-- 📅 Année : 2025
+-  Jazi Takwa
+-  Année : 2025
 
 ---
