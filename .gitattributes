@@ -1,6 +1,1 @@
-echo "# Configuration linguist pour STM32" > .gitattributes
-echo "*.c linguist-language=C" >> .gitattributes
-echo "*.h linguist-language=C" >> .gitattributes
-git add .gitattributes
-git commit -m "Configure GitHub language detection"
-git push
+git ls-files | grep -E '\.(c|h|cpp)$'
