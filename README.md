@@ -2,7 +2,9 @@
 # Chargeur Solaire Intelligent avec STM32 & FreeRTOS
 
 # Projet de fin d'année – Systèmes Embarqués
-
+![Langage](https://img.shields.io/badge/Langage-C_embarqué_(STM32_HAL)-00599C?style=flat&logo=c&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-03234B?logo=stmicroelectronics)
+![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS-00979D?logo=freertos&logoColor=white)
 Ce projet consiste à concevoir un chargeur solaire intelligent basé sur un microcontrôleur **STM32F446RE** avec **FreeRTOS**. Il permet de charger une batterie Li-ion en optimisant l'énergie du panneau solaire.
 
 
