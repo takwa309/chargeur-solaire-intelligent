@@ -6,7 +6,11 @@
 
 Ce projet consiste à concevoir un chargeur solaire intelligent basé sur un microcontrôleur **STM32F446RE** avec **FreeRTOS**. Il permet de charger une batterie Li-ion en optimisant l'énergie du panneau solaire.
 
+## 📦 Structure du Projet
 
+**Le code source complet** (projet STM32CubeIDE) est disponible dans le fichier :  
+`[PFA-20250609T185842Z-1-001.zip](https://github.com/takwa309/chargeur-solaire-intelligent/blob/main/PFA-20250609T185842Z-1-001.zip)`  
+*(Contient toute l'arborescence du projet : Drivers, Core, Inc, Src, etc.)*
 
 ## 🧠 Objectifs
 
