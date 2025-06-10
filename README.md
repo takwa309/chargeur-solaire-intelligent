@@ -10,7 +10,18 @@ Ce projet consiste à concevoir un chargeur solaire intelligent basé sur un mic
 
 **Le code source complet** (projet STM32CubeIDE) est disponible dans le fichier :  
 `[PFA-20250609T185842Z-1-001.zip]`  
-*(Contient toute l'arborescence du projet : Drivers, Core, Inc, Src, etc.)*
+
+## 🗂️ Organisation du dépôt
+
+- `/Core`, `/Drivers`, `/Middlewares` : Arborescence STM32CubeIDE
+- `/Src`, `/Inc` : Code source principal et headers
+
+---
+## 🛠️ Stack Technique
+
+![Langage](https://img.shields.io/badge/Langage-C_embarqué_(STM32_HAL)-00599C?style=flat&logo=c&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-03234B?logo=stmicroelectronics)
+![Simulation](https://img.shields.io/badge/Simulation-Proteus-00AEEF)
 
 ## 🧠 Objectifs
 
@@ -41,14 +52,6 @@ Ce projet consiste à concevoir un chargeur solaire intelligent basé sur un mic
 
 ---
 
-## 🗂️ Organisation du dépôt
-
-- `/Core`, `/Drivers`, `/Middlewares` : Arborescence STM32CubeIDE
-- `/Src`, `/Inc` : Code source principal et headers
-- `/images` : Schémas Proteus, captures d’écran OLED
-- `/docs` : Cahier des charges, rapports techniques
-
----
 
 ## 📸 Exemples visuels
 ![image](https://github.com/user-attachments/assets/0de707da-1ee0-4421-adac-29b8fb2b6754)
